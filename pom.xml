@@ -4,7 +4,6 @@
   <artifactId>cineapp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <!-- Ultima actualizacion de las versiones (Julio 2019) -->
   <dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
