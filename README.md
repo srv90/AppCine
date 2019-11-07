@@ -10,9 +10,7 @@ APLICACIÓN DESARROLLADA CON:
 
 Datos para ingresar:
 
-PERFIL EDITOR [ acceso al catálogo de películas, horarios y noticias ]
-User: juan
-Clave: 123
-PERFIL GERENTE [ acceso al catálogo de películas, horarios, noticias y banner ]
-User: laura
-Clave: 123
+PERFIL EDITOR [acceso al catálogo de películas, horarios y noticias]
+User: laura Clave: 123
+PERFIL GERENTE [acceso al catálogo de películas, horarios, noticias, banners y usuarios]
+User: juan Clave: 123
